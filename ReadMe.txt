@@ -19,3 +19,7 @@ Input of folder name[fld_nm] will be asked. Press Enter followingly.
 After.
 Performs the corealtion under sub folder Morph_Quant
 9. Run polr_extoscc_pulst. The final quantification.
+
+Directory should be where list of cells kept named as - number-pre/post-d (1-pre-d).
+10. Run APB. There should be a .mat file named as thr_res.mat sequentially containing the [threshold_value, pixel callib] in
+the array thr_res_arr.
